@@ -3,6 +3,8 @@ from base_problem import BaseProblem
 
 class Problem(BaseProblem):
     """
+https://code.google.com/codejam/contest/5304486/dashboard
+
 Problem A. Alphabet Cake
 You are catering a party for some children, and you are serving them a cake in the shape of a grid with R rows and C columns. Your assistant has started to decorate the cake by writing every child's initial in icing on exactly one cell of the cake. Each cell contains at most one initial, and since no two children share the same initial, no initial appears more than once on the cake.
 

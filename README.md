@@ -1,4 +1,4 @@
-# codejam2016
+# code_jam
 
 ## Design Notes
 * `main.py`, `config.py`, and `base_problem.py` are copied in each `./problems/year/round` folder, as they might change from round to round. This also makes it more straightforward to submit the full problem code, without needing to consider folder structure.
